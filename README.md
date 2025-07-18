@@ -43,18 +43,22 @@ This project uses machine learning to predict the sales of products across BigMa
 5. **Model Building**: Apply Linear Regression to predict `Item_Outlet_Sales`  
 6. **Export Results**: Save predictions to Excel using:
 
-## 📸 Power BI Dashboard – Preview
+## 📸 Power BI Dashboards
 
-### 🔹 Sample 1: Single Outlet Prediction
-![Power BI Dashboard 1](Screenshot%202025-07-19%20001608.png)
+### 🔹 Sample 1: 
+<img width="1303" height="792" alt="image" src="https://github.com/user-attachments/assets/7c9bcbb6-f347-4d47-a1fc-5e2df4552433" />
 
----
 
-### 🔹 Sample 2: Full Dataset Dashboard
-![Power BI Dashboard 2](Screenshot%202025-07-19%20001631.png)
+
+### 🔹 Sample 2: 
+<img width="1281" height="863" alt="image" src="https://github.com/user-attachments/assets/db94a2e4-0c98-4ec2-8eff-24bb398951a0" />
+
+
 
 
 ## 📈 Tableau Visual
+<img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/785e7e17-c3f2-4a4e-bdc3-bfbc1666c8f5" />
 
-<img src="images/tableau_chart.png" width="500"/>
+
+
 
